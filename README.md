@@ -1,3 +1,3 @@
 # springrestjpa
 
-JPA Java 8 Security
+JPA Java 8 Security Response Entity validation Error Handling
